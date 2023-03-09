@@ -1,0 +1,10 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+#cabeca {background-color: #000000;
+        text-align: center;
+        font-weight: bold;
+         color: white;
+        }
+body {text-align: center;}
